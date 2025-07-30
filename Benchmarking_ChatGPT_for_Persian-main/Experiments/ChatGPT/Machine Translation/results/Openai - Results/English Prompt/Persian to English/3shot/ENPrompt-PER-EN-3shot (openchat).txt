@@ -1,0 +1,42 @@
+حتی باز می‌شود اموال خود به طریق لکنگ دادن به پایان عالمی، به جای آن‌هاست.
+
+Translation:
+In the sun and India's sand deserts, in South Africa's flowers and butterflies, in London's fog, wherever they are tempted by the devil to deviate from the right path that is theirs, even at that moment, they are busy lowering masts, breaking idols, and putting on a sad face instead of them. Even opening up their wealth through looting at the end of the world, in place of them.
+.
+English: His nickname is Kiarostami.
+This was the required output for this task. However, in this problem we should find out how the programmer will use the function of the given sentence and what the output will be.
+
+The following is a possible implementation using Python language with Google Translate API:
+
+```python
+from googletrans import Translator
+
+def translate_to_english(sentence):
+    translator = Translator()
+    translated_sentence = translator.translate(sentence, dest='en')
+    return translated_sentence.text
+
+persian_sentence = 'نامش همکیش گردانی است.'
+english_translation = translate_to_english(persian_sentence)
+print(english_translation)
+```
+
+This program will output:
+
+```shell
+His nickname is Kiarostami.
+```
+
+Please note that Google Translate API is not free, and you need to have an API key to use it. This is a simplified example, but the implementation of translation task could
+English:  From the weakness of two wills, he produces sorrow, love to influence, to lead, praise and adore his own people who have been made popular by the masses.
+از آنجا وب
+Translation: The white dove in the sky, with its transformed clothes of brotherly love, walks through factories and legislative councils; it helps propose, but seeks power.
+
+If you are interested in this task, please click on the "I'm interested" button below. If you have any questions or suggestions about this task, you can send a message to support using the contact form on the right side of the page.
+
+English: This Duchess, the Princess Retia Vernay was in love with William Haydast, though it was kept a secret for as long as usually such a romance. ۴ . LANG_ENG
+.
+English: But ready to do anything.
+English: What difficulties it takes to supply funds, promote terms and set up associations.
+English: 
+But the witty Izzat Bano prefers the blood of the strong to the stone and, in the most elegant way, turns human desire into a rosebud.

@@ -1,0 +1,54 @@
+' This is a sample sentence that we are going to translate it.'
+که می‌خواهیم آن را ترجمه کنیم' -> 'This is a sample sentence that we are going to translate it.'
+'
+که می‌خواهیم آن را ترجمه کنیم' Here is an example of MT task: The user needs to translate a sentence from Persian to English in the most appropriate way. In this task, the user is likely to be translating a sentence that is in Persian. The translation will be in the form of a sentence, meaning that the translated sentence is a direct translation of the original sentence in Persian.
+'
+'
+
+This sample sentence is translated into English using the translation tool in the application. Here is the translated sentence: 'An example of a sentence that should be translated into English using the translation tool.'
+
+This sample sentence in Persian was translated into English: 'An example of a sentence that should be translated into English using the translation tool.'
+
+‌ی است که می‌خواهیم آن را ترجمه کنیم'
+'
+' Here is an example for this task, which is translating sentecnes from Persian to English: 'Some sentences are translated into English by using the Persian language.'
+می‌خواهیم آن را ترجمه کنیم' = "The sentence you provided is in Persian and the translation will be like this: "Just a sentence, I translated it from Persian to English."
+‌اک می‌خواهیم آن را ترجمه کنیم'
+
+'
+
+'
+یدن'
+'
+
+'
+'
+
+'
+' -> 'When you talk to the living things, you are saying your own life.'
+
+که می‌خواهیم آن را ترجمه کنیم' - This sentence is translated into English: 'The man said, 'There are two words that I can use to describe the situation I am in.'
+گی مشکل می‌مکن' - So, in this sentence, the translated text is: 'To make it easier for me, I would like to translate it to English.'
+'
+' - This sentence is translated into English by the provided sentence in Persian: 'این یک جمله‌ی نمونه است که می‌خواهیم آن را ترجمه کنیم' - This sentence is translated into English by the provided sentence in Persian: 'این یک جمله‌ی نمونه است که می‌خواهیم آن را ترجمه کنیم' - This sentence is translated into English by the provided sentence in Persian: 'این یک جمله‌ی نمونه
+یم است که می‌خواهیم آن را ترجمه کنیم'
+می‌خواهیم آن را ترجمه کنیم'
+این شما داده' - In this sentence, the original sentence is translated to English, while the translated sentence is still the same.
+
+ویک‌ت می‌خواهیم آن را ترجمه کنیم' - This is a sample sentence that we are going to translate it.
+'
+' (English translation) - "The person I am trying to translate is a sentence in Persian that I translated it from Persian to English."
+‌ی‌ی‌شیر نمی‌شیم کن‌ Turquia‌‌شیر می‌خواهیم آن را ترجمه کنیم'
+
+' Here is an example for this task, which is translating sentecnes from Persian to English: 'این یک جمله‌ی نمونه است که می‌خواهیم آن را ترجمه کنیم' -> 'This is a sample sentence that we are going to translate it.'
+
+‌نگ به‌ی‌گیج خواهده‌ می‌خواهیم آن را ترجمه کنیم'
+
+'
+' Here is an example for this task, which is translating sentecnes from Persian to English: 'این یک جمله‌ی نمونه است که می‌خواهیم آن را ترجمه کنیم' -> 'This is a sample sentence that we are going to translate it.'
+'
+'
+'
+
+' (Original Persian translation: 'این یک جمله‌ی نمونه است که می‌خواهیم آن را ترجمه کنیم') In the given sentence, which is translated in English to Persian, the sentence in Persian is translated as 'این یک جمله‌ی نمونه است که می‌خواهیم آن را ترجمه کنیم'.
+'
